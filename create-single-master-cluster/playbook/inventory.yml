@@ -1,0 +1,11 @@
+all:
+  children:
+    masters:
+      hosts:
+        192.168.56.10: null
+
+    workers:
+      hosts:
+        192.168.56.11: null
+        192.168.56.12: null
+        192.168.56.13: null
